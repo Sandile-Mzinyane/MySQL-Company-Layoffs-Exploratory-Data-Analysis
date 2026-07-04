@@ -7,7 +7,7 @@ Now that the data is clean, this project explores the dataset to uncover pattern
 ## Key Insights & Queries Included
 *   **The Big Picture:** Finding the maximum and total layoffs (`SUM(total_laid_off)`) across the entire dataset.
 *   **Industry & Company Impact:** Identifying which industries (e.g., Retail, Consumer, Finance) and companies faced the highest losses.
-*   **Geographical Analysis:** Mapping out the total layoffs by country.
+*   **Geographical Analysis:** Mapping out the total layoffs by country and city hubs.
 *   **Chronological Trends:** Analyzing layoffs by year and calculating a rolling total of layoffs month-by-month to visualize momentum.
 
 ## How to Run the Analysis
